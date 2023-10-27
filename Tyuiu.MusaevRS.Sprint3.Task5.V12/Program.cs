@@ -14,7 +14,7 @@ namespace Tyuiu.MusaevRS.Sprint3.Task5.V12
             Console.Title = "Спринт #3 | Выполнил Мусаев Р.Ш. | ПКТб-23-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Использование операторов continue и break в циклах                *");
+            Console.WriteLine("* Тема: Вложенные циклыФайл                                               *");
             Console.WriteLine("* Задание №5                                                              *");
             Console.WriteLine("* Вариант №12                                                             *");
             Console.WriteLine("* Выполнил: Мусаев Руслан Шамхалович | ПКТб-23-2                          *");

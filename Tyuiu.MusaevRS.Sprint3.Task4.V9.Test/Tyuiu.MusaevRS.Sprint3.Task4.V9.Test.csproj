@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2577AE23-DA2E-4BC8-A994-B161EFD0885A}</ProjectGuid>
+    <ProjectGuid>{0F9E09B0-B2B9-4DEA-BF49-4E87156AB5A7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.MusaevRS.Sprint3.Task3.V9.Test</RootNamespace>
-    <AssemblyName>Tyuiu.MusaevRS.Sprint3.Task3.V9.Test</AssemblyName>
+    <RootNamespace>Tyuiu.MusaevRS.Sprint3.Task4.V9.Test</RootNamespace>
+    <AssemblyName>Tyuiu.MusaevRS.Sprint3.Task4.V9.Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.MusaevRS.Sprint3.Task3.V9.Lib\Tyuiu.MusaevRS.Sprint3.Task3.V9.Lib.csproj">
-      <Project>{63ec5029-54a9-49db-8c5a-0e4a71342cfb}</Project>
-      <Name>Tyuiu.MusaevRS.Sprint3.Task3.V9.Lib</Name>
+    <ProjectReference Include="..\Tyuiu.MusaevRS.Sprint3.Task4.V9.Lib\Tyuiu.MusaevRS.Sprint3.Task4.V9.Lib.csproj">
+      <Project>{8a40e08f-7aa3-4ebf-af88-f6e0e5f59079}</Project>
+      <Name>Tyuiu.MusaevRS.Sprint3.Task4.V9.Lib</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
